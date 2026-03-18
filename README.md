@@ -1,8 +1,7 @@
 # Hi 👋, I'm xiaocai
 
-### 想要追寻自由的小菜
+### 一个想要追寻自由的小菜
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caideidei&label=Profile views&color=0e75b6&style=flat" alt="caideidei" /> </p>
 
 - 🔭 I'm currently working on **属于自己的博客网站**
 
