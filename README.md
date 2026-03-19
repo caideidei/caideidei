@@ -51,7 +51,6 @@
 🧠 **AI & 数据：**  
 ![Python](https://skillicons.dev/icons?i=py)
 ![Anaconda](https://skillicons.dev/icons?i=anaconda)
-![Ollama](https://cdn.simpleicons.org/ollama)
 
 🎨 **其他：**  
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
