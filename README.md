@@ -30,30 +30,32 @@
 
 ## 🚀 技术栈
 
-💻 **后端 & 基础能力：**  
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Redis](https://skillicons.dev/icons?i=redis)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+💻 **后端开发**：  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-🌐 **前端 & 全栈：**  
-![Vue](https://skillicons.dev/icons?i=vue)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+📱 **前端 & 全栈**：  
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![uni-app](https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=dcloud&logoColor=white)
 
-⚙️ **工具 & 环境：**  
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![Nginx](https://skillicons.dev/icons?i=nginx)
+🤖 **AI & 数据**：  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)
 
-🧠 **AI & 数据：**  
-![Python](https://skillicons.dev/icons?i=py)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
+⚙️ **工具 & 基础设施**：  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-🎨 **其他：**  
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
+🎨 **设计 & 其他**：  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="28" />
 
 ---
 
