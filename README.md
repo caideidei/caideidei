@@ -55,7 +55,6 @@
 
 🎨 **设计 & 其他**：  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-<img src="https://cdn.simpleicons.org/adobelightroom/31A8FF" height="28" />
 
 ---
 
